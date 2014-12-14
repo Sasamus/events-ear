@@ -3,7 +3,6 @@
 	<name>events-ear-assignment4</name>
 	<comment></comment>
 	<projects>
-		<project>events-web-assignment4</project>
 		<project>events-business-assignment4</project>
 	</projects>
 	<buildSpec>
