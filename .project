@@ -4,6 +4,7 @@
 	<comment></comment>
 	<projects>
 		<project>events-business-assignment4</project>
+		<project>events-web-assignment4</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
