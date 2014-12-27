@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>events-ear-assignment4</name>
+	<name>events-ear</name>
 	<comment></comment>
 	<projects>
-		<project>events-business-assignment4</project>
-		<project>events-web-assignment4</project>
+		<project>events-business</project>
+		<project>events-web</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
