@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
     <wb-module deploy-name="events-ear">
         <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/" source-path="/EarContent/lib"/>
         <dependent-module archiveName="events-business.jar" deploy-path="/" handle="module:/resource/events-business/events-business">
             <dependent-object/>
             <dependency-type>uses</dependency-type>
